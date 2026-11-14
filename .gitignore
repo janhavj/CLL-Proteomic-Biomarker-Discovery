@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Original downloaded datasets
+data/raw/
+
+# Temporary files
+.ipynb_checkpoints/
+*.log
